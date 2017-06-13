@@ -1,0 +1,16 @@
+@background-color: #ffffff;
+@text-color: #1A237E;
+
+p{
+  background-color: @background-color;
+  color: @text-color;
+  padding: 15px;
+}
+
+ul{
+  background-color: @background-color;
+}
+
+li{
+  color: @text-color;
+}
